@@ -1,5 +1,12 @@
 # Depth Estimation of Martian Surface using ISRO’s MARS Color Camera Images
-Using Pix2Pix model for image to image translation from Domain A (ISRO satellite image of Martian Surface) to Domain B (Corresponding Depth Image)<br>
+
+## Authors
+- [@Akash Khamkar](https://www.github.com/AkashKhamkar) <br>
+- [@Arjun Pukale](https://www.github.com/ArjunPukale) <br>
+- [@Prathamesh Joshi](https://www.github.com/prathamesh1499)
+
+
+Proposing Pix2Pix model for image to image translation from Domain A (ISRO satellite image of Martian Surface) to Domain B (Corresponding Depth Image)<br>
 
 <br>
 <b>Abstract</b>
