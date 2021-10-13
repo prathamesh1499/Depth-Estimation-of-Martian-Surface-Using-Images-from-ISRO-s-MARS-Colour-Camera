@@ -70,6 +70,7 @@ We have tested this model with two loss functions:
 ### Performance Metric Distribution:
 ![OUTPUT](./Images/Metric_dist.png)<br>
 
+### References
 ```
 @inproceedings{isola2017image,
   title={Image-to-Image Translation with Conditional Adversarial Networks},
