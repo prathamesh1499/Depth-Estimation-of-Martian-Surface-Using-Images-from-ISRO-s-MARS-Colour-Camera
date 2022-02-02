@@ -1,5 +1,18 @@
 # Depth Estimation of Martian Surface using ISRO’s MARS Color Camera Images
 
+# Published 
+**Published in: 2021 2nd Global Conference for Advancement in Technology (GCAT)** - https://ieeexplore.ieee.org/document/9587677
+**Date of Conference:** 1-3 Oct. 2021<br>
+**Date Added to IEEE Xplore:** 13 November 2021<br>
+**ISBN Information:**<br>
+Electronic ISBN:978-1-6654-1836-2 <br>
+Print on Demand(PoD) ISBN:978-1-6654-3070-8<br>
+**INSPEC Accession Number:** 21297225<br>
+**DOI:** 10.1109/GCAT52182.2021.9587677<br>
+**Publisher:** IEEE<br>
+**Conference Location:** Bangalore, India<br>
+
+
 ## Authors
 - [@Akash Khamkar](https://www.github.com/AkashKhamkar) <br>
 - [@Arjun Pukale](https://www.github.com/ArjunPukale) <br>
@@ -11,7 +24,9 @@ Proposing Pix2Pix model for image to image translation from Domain A (ISRO satel
 <br>
 <b>Abstract</b>
 </br>
-Currently, the Indian Space Research Organization (ISRO) is carrying out various research projects regarding the planet Mars. Earlier, it deployed Mars orbiter in the year 2013 for collecting information which can be further used for conducting even more in-depth research about the planet’s topography, temperature, atmosphere, etc. 
+<br>Depth estimation from satellite images is a fundamental task when studying the terrain of a celestial body. Existing solutions for depth estimation often use datasets that include either images of an indoor scene or images related to (self-driving). This paper presents a Pix2pix type of neural network for computing the depth of the Martian surface using the images captured by ISRO’s Mars Orbiter. In this paper, we have implemented Pix2Pix (Generator Discriminator) architecture using two different loss functions- LSGAN and Vanilla loss functions and then compared their results to select a better loss function for computing accurate depth maps. We also created our own dataset using images provided by ISRO that contains 343 Training Images and 37 testing images.</br>
+
+<br>Currently, the Indian Space Research Organization (ISRO) is carrying out various research projects regarding the planet Mars. Earlier, it deployed Mars orbiter in the year 2013 for collecting information which can be further used for conducting even more in-depth research about the planet’s topography, temperature, atmosphere, etc. </br>
 
 One such research area that ISRO is currently focusing on is estimating the depths of various valleys, canyon systems of the Martian planet. As per the current scenario, one such method for estimating depths is using Lidar technology. 
 
