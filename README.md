@@ -1,7 +1,7 @@
 # Depth Estimation of Martian Surface using ISRO’s MARS Color Camera Images
 
 # Published 
-**Published in: 2021 2nd Global Conference for Advancement in Technology (GCAT)** - https://ieeexplore.ieee.org/document/9587677
+**Published in: 2021 2nd Global Conference for Advancement in Technology (GCAT)** - https://ieeexplore.ieee.org/document/9587677<br>
 **Date of Conference:** 1-3 Oct. 2021<br>
 **Date Added to IEEE Xplore:** 13 November 2021<br>
 **ISBN Information:**<br>
